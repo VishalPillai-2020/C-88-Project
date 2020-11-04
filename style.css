@@ -1,0 +1,41 @@
+.body_background 
+{
+    background: linear-gradient(to right top, rgb(59, 208, 245), rgb(230, 230, 250), rgba(128, 0, 128, 0.644), rgb(10, 115, 170), rgb(0, 100, 148), transparent),url("https://lh4.googleusercontent.com/1mkuCJoufTASFZyhCkXiP7XKg4154VG7eZ-bLNlDfT0HNJnqxdYZXnBTDpccO5kh-RZeyc16x_H0shuCzjGI=w1960-h1102-rw") ;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
